@@ -1,0 +1,32 @@
+baseURL = "https://note.youyo.io/"
+languageCode = "ja-jp"
+title = "note.youyo.io"
+theme = "github-style"
+defaultContentLanguage = "ja"
+enableInlineShortcodes = true
+#googleAnalytics = ""
+lastmod = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "Naoto Ishizawa"
+  description = "Developer @heptagon_inc"
+  github = "youyo"
+  twitter = "youyo_"
+  rss = true
+  lastmod = true
+  favicon = "/images/profile_github.jpg"
+  avatar = "/images/profile_github.jpg"
+  location = "Aomori, Japan"
+
+  [[params.links]]
+    title = "blog.youyo.io"
+    href = "https://blog.youyo.io/"
+
+  [[params.links]]
+    title = "blog.youyo.info"
+    href = "https://blog.youyo.info/"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
