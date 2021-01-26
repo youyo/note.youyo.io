@@ -16,8 +16,8 @@ pygmentsUseClasses = true
   twitter = "youyo_"
   rss = true
   lastmod = true
-  favicon = "/images/profile_github.jpg"
-  avatar = "/images/profile_github.jpg"
+  favicon = "/favicon.png"
+  avatar = "/images/profile_github-min.jpg"
   location = "Aomori, Japan"
 
   [[params.links]]
