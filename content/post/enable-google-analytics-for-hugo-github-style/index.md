@@ -35,8 +35,14 @@ $ hugo server
 {{ end }}
 ```
 
-`HUGO_ENV=production` を設定することで解決 :)
+`HUGO_ENV=production` を設定することで解決:slightly_smiling_face:
 
 ```bash
 $ HUGO_ENV=production hugo server
 ```
+
+ちなみにちゃんとドキュメントにも記載ありました:innocent:
+
+>Here is an sample. Note line 22 have env HUGO_ENV="production", makes sure googleAnalysis is loaded during production, but is not loaded when we are testing it in localhost.
+
+https://themes.gohugo.io/github-style/#deploysh-example

@@ -8,6 +8,7 @@ googleAnalytics = "G-GC296N211P"
 lastmod = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
+enableEmoji = true
 
 [params]
   author = "Naoto Ishizawa"
