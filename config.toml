@@ -18,7 +18,7 @@ enableEmoji = true
   rss = true
   lastmod = true
   favicon = "/favicon.png"
-  avatar = "/images/profile_github-min.jpg"
+  avatar = "/images/profile3-min.jpg"
   location = "Aomori, Japan"
 
   [[params.links]]
