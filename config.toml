@@ -1,6 +1,6 @@
 baseURL = "https://note.youyo.io/"
 languageCode = "ja-jp"
-title = "note.youyo.io"
+title = "memo/note/blog"
 theme = "github-style"
 defaultContentLanguage = "ja"
 enableInlineShortcodes = true
