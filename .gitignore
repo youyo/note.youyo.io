@@ -86,3 +86,4 @@ sw.*
 #
 .envrc
 public/
+*.lock
