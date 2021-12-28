@@ -5,7 +5,7 @@ tags: [振り返り]
 summary: 2021年振り返り
 pin: false
 draft: false
-image: looking-back-on-2021_1.png
+image: post/looking-back-on-2021/looking-back-on-2021_1.png
 ---
 
 ## 仕事
