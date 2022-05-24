@@ -2,7 +2,7 @@
 title: curlの`--aws-sigv4`オプションでLambdaの認証付きURLにリクエストする
 date: 2022-05-24T11:00:00+09:00
 tags: [AWS]
-summary: $(brew --prefix)を置き換えたら高速化した
+summary: --aws-sigv4 オプションを利用すると便利
 pin: false
 draft: false
 ---
