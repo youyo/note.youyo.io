@@ -22,6 +22,10 @@ enableEmoji = true
   location = "Aomori, Japan"
 
   [[params.links]]
+    title = "AWS Badges"
+    href = "https://www.credly.com/users/naoto-ishizawa/badges"
+
+  [[params.links]]
     title = "blog.youyo.io"
     href = "https://blog.youyo.io/"
 
