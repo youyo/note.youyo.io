@@ -2,7 +2,7 @@
 title: CloudRunとPlanetScaleを使ってGrafana環境を作成してみる
 date: 2022-08-18T13:07:27+09:00
 tags: [Grafana,GCP,PlanetScale,MySQL,CloudRun,Docker,Container]
-summary: ''
+summary: CloudRunとPlanetScale最高
 pin: false
 draft: false
 ---
